@@ -31,6 +31,6 @@ const Items = [
         name: "F1 muốn tổ chức giải đua xe tại Việt Nam vào năm 2020",
         level: 1 // medium
     }
-]
+];
 
-export default Items
+export default Items;
